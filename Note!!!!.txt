@@ -1,0 +1,4 @@
+Avant d'executer le fichier main_gui.py, il faut installe les packages
+suivant dans votre environnement python:
+-numpy
+-PyQt5 !!!
